@@ -23,8 +23,16 @@ function idea() {
 
 button.addEventListener("click", idea);
 
+// const ideaArray = [
+//   '"I know it sounds corny, but I\'d love to improve people\'s lives, especially socially... Making the world more open is not an overnight thing. It\'s a 10-to-15-year thing." - Mark Zuckerberg \n \n "Facebook was not originally created to be a company. It was built to accomplish a social mission - to make the world more open and connected." - Mark Zuckerberg \n \n "Is Facebook Destroying Society and Your Mental Health?" - https://www.psychologytoday.com/gb/blog/the-pacific-heart/201801/is-facebook-destroying-society-and-your-mental-health'
+// ];
+
+const quote1 =
+  "\"I know it sounds corny, but I'd love to improve people's lives, especially socially... Making the world more open is not an overnight thing. It's a 10-to-15-year thing.\" - Mark Zuckerberg \n \n Is Facebook Destroying Society and Your Mental Health? - https://www.psychologytoday.com/gb/blog/the-pacific-heart/201801/is-facebook-destroying-society-and-your-mental-health";
+
 const ideaArray = [
-  '"I know it sounds corny, but I’d love to improve people’s lives, especially socially… Making the world more open is not an overnight thing. It’s a 10-to-15-year thing." - Mark Zuckerberg\n\n"Facebook was not originally created to be a company. It was built to accomplish a social mission – to make the world more open and connected." - Mark Zuckerberg\n\n"Is Facebook Destroying Society and Your Mental Health?" - https://www.psychologytoday.com/gb/blog/the-pacific-heart/201801/is-facebook-destroying-society-and-your-mental-health'
+  quote1,
+  '"Facebook was not originally created to be a company. It was built to accomplish a social mission - to make the world more open and connected." - Mark Zuckerberg'
 ];
 
 // I know it sounds corny, but I’d love to improve people’s lives, especially socially… Making the world more open is not an overnight thing. It’s a 10-to-15-year thing. - Mark Zuckerberg
