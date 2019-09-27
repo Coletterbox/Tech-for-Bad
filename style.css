@@ -54,7 +54,7 @@ h2 {
 #text {
   display: flex;
   justify-content: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 1.5rem;
   padding: 3rem;
   border-style: solid;
@@ -64,7 +64,7 @@ h2 {
 #text2 {
   display: flex;
   justify-content: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 1.5rem;
   padding: 3rem;
   border-style: solid;
