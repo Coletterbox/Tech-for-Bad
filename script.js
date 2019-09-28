@@ -7,6 +7,11 @@ let lastRandomNumberArray = [];
 function randomNumber() {
   let randomNumber = Math.floor(Math.random() * ideaArray.length);
   console.log(randomNumber);
+  // supposed to check if the random number is the same as the previous, and rerun the code if so
+  // error message:
+  // script.js:15 Uncaught TypeError: randomNumber is not a function
+  // at randomNumber (script.js:15)
+  // at HTMLButtonElement.idea (script.js:21)
   lastRandomNumberArray.push(randomNumber);
   console.log(lastRandomNumberArray);
   if (
@@ -14,6 +19,7 @@ function randomNumber() {
   ) {
     randomNumber();
   }
+  // section of code ends here
   return randomNumber;
 }
 
