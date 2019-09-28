@@ -82,6 +82,17 @@ const quote17 =
 const quote18 =
   '"My goal was never to just create a company. It was to build something that actually makes a really big change in the world." - Mark Zuckerberg';
 
+const quote19 =
+  '"When you use Google services, you trust us with your data. It\'s our responsibility to be transparent about the data that we collect and how we use it in making our services work better for you." - Google';
+
+const quote20 = '"Keep your kids safer online." - Google';
+
+// const quote21 = '"We believe it\'s important for you to have the controls you need
+// to manage your data online" - Google';
+
+const quote21 =
+  '"We believe it\'s important for you to have the controls you need to manage your data online." - Google';
+
 const ideaArray = [
   quote1,
   quote2,
@@ -100,7 +111,10 @@ const ideaArray = [
   quote15,
   quote16,
   quote17,
-  quote18
+  quote18,
+  quote19,
+  quote20,
+  quote21
 ];
 
 const linkArray = [
@@ -121,7 +135,10 @@ const linkArray = [
   '"Unsecured Facebook Databases Leak Data Of 419 Million Users" - https://www.forbes.com/sites/daveywinder/2019/09/05/facebook-security-snafu-exposes-419-million-user-phone-numbers',
   '"Smart TVs sending private data to Netflix and Facebook" - https://www.ft.com/content/23ab2f68-d957-11e9-8f9b-77216ebe1f17',
   '"Facebook\'s plans to sell user data revealed in email" - https://www.telegraph.co.uk/technology/2018/11/29/facebooks-plans-sell-user-data-revealed-email/',
-  '"Mark Zuckerberg Is More Dangerous than Donald Trump" - https://www.fairobserver.com/region/north_america/mark-zuckerberg-facebook-cambridge-analytica-scandal-data-business-news-headlines-today-23490/'
+  '"Mark Zuckerberg Is More Dangerous than Donald Trump" - https://www.fairobserver.com/region/north_america/mark-zuckerberg-facebook-cambridge-analytica-scandal-data-business-news-headlines-today-23490/',
+  '"Google Data Collection Is More Extensive and Intrusive Than You Ever Imagined" - https://www.cpomagazine.com/data-privacy/google-data-collection-is-more-extensive-and-intrusive-than-you-ever-imagined/',
+  '"YouTube\'s "Elsagate" Illuminates The Unintended Horrors Of The Digital Age" (Google owns YouTube.) - https://www.forbes.com/sites/danidiplacido/2017/11/28/youtubes-elsagate-illuminates-the-unintended-horrors-of-the-digital-age',
+  '"Google to shut down Google+ after failing to disclose user data leak" - https://www.theguardian.com/technology/2018/oct/08/google-plus-security-breach-wall-street-journal'
 ];
 
 // I know it sounds corny, but I’d love to improve people’s lives, especially socially… Making the world more open is not an overnight thing. It’s a 10-to-15-year thing. - Mark Zuckerberg
