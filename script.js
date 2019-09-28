@@ -2,7 +2,7 @@ let button = document.getElementById("generate");
 let para = document.getElementById("text");
 let para2 = document.getElementById("text2");
 
-let lastRandomNumberArray = [];
+var lastRandomNumberArray = [];
 
 function randomNumber() {
   let randomNumber = Math.floor(Math.random() * ideaArray.length);
