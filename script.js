@@ -99,6 +99,9 @@ const quote20 = '"Keep your kids safer online." - Google';
 const quote21 =
   '"We believe it\'s important for you to have the controls you need to manage your data online." - Google';
 
+const quote22 =
+  '"The future is private." ... "This is about building the kind of future we want to live in. To build a world where we can be ourselves and live freely and know that our private moments are only going to be seen by the people they want." - Mark Zuckerberg';
+
 const ideaArray = [
   quote1,
   quote2,
@@ -120,7 +123,8 @@ const ideaArray = [
   quote18,
   quote19,
   quote20,
-  quote21
+  quote21,
+  quote22
 ];
 
 const linkArray = [
@@ -144,7 +148,8 @@ const linkArray = [
   '"Mark Zuckerberg Is More Dangerous than Donald Trump" - https://www.fairobserver.com/region/north_america/mark-zuckerberg-facebook-cambridge-analytica-scandal-data-business-news-headlines-today-23490/',
   '"Google Data Collection Is More Extensive and Intrusive Than You Ever Imagined" - https://www.cpomagazine.com/data-privacy/google-data-collection-is-more-extensive-and-intrusive-than-you-ever-imagined/',
   '"YouTube\'s "Elsagate" Illuminates The Unintended Horrors Of The Digital Age" (Google owns YouTube.) - https://www.forbes.com/sites/danidiplacido/2017/11/28/youtubes-elsagate-illuminates-the-unintended-horrors-of-the-digital-age',
-  '"Google to shut down Google+ after failing to disclose user data leak" - https://www.theguardian.com/technology/2018/oct/08/google-plus-security-breach-wall-street-journal'
+  '"Google to shut down Google+ after failing to disclose user data leak" - https://www.theguardian.com/technology/2018/oct/08/google-plus-security-breach-wall-street-journal',
+  '"Facebook Is Patenting Technology to Spy on You Through Your Smartphone Camera and Microphone" - https://www.inc.com/minda-zetlin/facebook-patents-spying-smartphone-camera-microphone-privacy.html'
 ];
 
 // I know it sounds corny, but I’d love to improve people’s lives, especially socially… Making the world more open is not an overnight thing. It’s a 10-to-15-year thing. - Mark Zuckerberg
